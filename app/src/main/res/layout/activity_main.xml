@@ -49,4 +49,11 @@
             android:textColor="@color/red"
             android:textSize="30sp" />
     </LinearLayout>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Start"/>
 </LinearLayout>
