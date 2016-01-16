@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RiseNumber</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="score">Score:  </string>
+    <string name="money">Money:  </string>
+</resources>
