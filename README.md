@@ -5,7 +5,7 @@ RiseNumber Animator on Android
 # How to Use
 just copy [app\src\main\java\com\holo\risenumber\views\RiseNumberTextView.java](app/src/main/java/com/holo/risenumber/views/RiseNumberTextView.java)
 file to your project!
- ### in layout:
+### in layout:
  ``` xml
   <com.yourpackageName.RiseNumberTextView
             android:id="@+id/money"
@@ -14,7 +14,7 @@ file to your project!
             android:textColor="@color/red"
             android:textSize="30sp" />
  ```
-  ### in Activity
+### in Activity
   RiseNumber for int number
   ``` java
    RiseNumberTextView rnt;
